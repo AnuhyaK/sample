@@ -1,4 +1,4 @@
-WORK FLOW:
+# WORK FLOW:
 
 This Application is related to exchange of products between buyer and seller with an agreement with their respective banks.
 Step 1: buyer and seller should have registered with their respective banks.If not register
@@ -13,15 +13,15 @@ Step 5: buyer bank review shipping documents and approve payment receipt and sen
 Step 6: seller receives the payment confirmation from seller bank.
 Step 7: buyer will collects the products by using shipping documents which has been sent by buyer bank.
 
-PREREQUISITE SOFTWARES:
+# PREREQUISITE SOFTWARES:
 
 1.nodejs
  
 The commands for installing nodejs
 
-command : $ sudo apt-get update
+command : **$ sudo apt-get update**
 
-command : $ sudo apt-get install nodejs
+command : **$ sudo apt-get install nodejs**
 
 The command for installing nodejs package manager
 
